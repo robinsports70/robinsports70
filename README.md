@@ -1,16 +1,15 @@
-## Hi there 👋
+# Robin Sports — Custom Clothing Manufacturer
 
-<!--
-**robinsports70/robinsports70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Custom clothing manufacturer for small brands, clubs and schools.
 
-Here are some ideas to get you started:
+**We make:** Custom Hoodies · Varsity Jackets · T-Shirts & Polos · Team Uniforms & Kits · Baseball Uniforms · Activewear & Tracksuits · Custom Dresses · Leather Jackets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Services:** Cut & Sew · Embroidery · Chenille Patches · Screen Printing · Sublimation · Private Label · Worldwide Shipping
+
+**Website:** https://robinsports70.github.io/
+**Instagram:** https://www.instagram.com/robinsports70
+**YouTube:** https://www.youtube.com/@RobinSports-w5n
+**Blog:** https://robinsports70.blogspot.com
+**Pinterest:** https://www.pinterest.com/robinsports70/
+
+DM 'CUSTOM' on Instagram for a quote.
